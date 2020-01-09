@@ -9,6 +9,7 @@ curriculum vitae
  Experience
  Education
  Hobbies & Interests
+ Sk
  </html>
  
 
