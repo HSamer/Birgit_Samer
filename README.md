@@ -3,7 +3,7 @@ curriculum vitae
 
 <html>
  <head>
-  <title> Birgit Samer </title></head>
+  Birgit Samer </head>
 <body> 
  About Me
  Experience
