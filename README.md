@@ -13,6 +13,7 @@ curriculum vitae
    <body>
    
  Hobbies & Interests
+ 
  Skills
  </html>
  
