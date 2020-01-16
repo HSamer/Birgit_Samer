@@ -1,10 +1,10 @@
 # Birgit_samer
 curriculum vitae
 
-- About me
-  telefone
-	adress
+- About me                      - Experience
+  telefone                        xxxxxx
+	adress                    yyyyyy                   
 	e-mail
-- Experience
+ 
 - Education
 - Hobbies & Interests
