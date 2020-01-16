@@ -4,7 +4,7 @@ curriculum vitae
 <html>
  <head>
   Birgit Samer </head>
-<body> 
+ 
  About Me
 
  Experience
