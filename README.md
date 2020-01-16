@@ -3,7 +3,7 @@ curriculum vitae
 
 - About me                       
 - Experience
-  - telefone                    
+  telefone                    
 	- adress                                  
 	- e-mail
  
