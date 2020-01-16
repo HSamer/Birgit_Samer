@@ -6,8 +6,12 @@ curriculum vitae
   Birgit Samer </head>
 <body> 
  About Me
+ <body>
  Experience
+  <body>
  Education
+   <body>
+   
  Hobbies & Interests
  Skills
  </html>
