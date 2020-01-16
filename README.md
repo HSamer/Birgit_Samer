@@ -3,8 +3,8 @@ curriculum vitae
 
 - About me#                        
 - Experience
-  telefone                    #   xxxxxx
-	adress                #   yyyyyy                   
+  telefone                    
+	adress                                  
 	e-mail
  
 - Education
